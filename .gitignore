@@ -1,0 +1,22 @@
+# Dataset (trop lourd pour GitHub — retéléchargeable via Download_Dataset.ipynb)
+data_original/
+data/
+
+# Fichiers système macOS
+.DS_Store
+._*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Modèles entraînés (lourds)
+*.h5
+*.keras
+*.pt
+*.pth
